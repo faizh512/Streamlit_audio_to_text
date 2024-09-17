@@ -1,0 +1,3 @@
+streamlit
+speech_recognition 
+pydub 
