@@ -40,10 +40,10 @@ Click the "Download" button to download the transcribed text as a Transcript.txt
 ## Dependencies
 The project uses the following Python libraries:
 
-1. Streamlit: For creating the web application interface.
-2. speech_recognition: For converting speech to text.
-3. pydub: For audio processing and handling.
-4. pydub.silence: For detecting and splitting audio based on silence.
+- Streamlit: For creating the web application interface.
+- speech_recognition: For converting speech to text.
+- pydub: For audio processing and handling.
+- pydub.silence: For detecting and splitting audio based on silence.
 
 ## Future Enhancements
 1. Support for More Audio Formats: Extend support to additional audio formats (e.g., WAV, FLAC).
